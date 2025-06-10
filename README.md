@@ -9,3 +9,5 @@ Creemos que esta experiencia ha sido clave para afianzar los conocimientos adqui
 En síntesis, esta experiencia práctica no solo facilitó la comprensión de la lógica inherente a estos algoritmos esenciales, sino que también subrayó la trascendental importancia de la estructuración de los datos para la optimización del rendimiento algorítmico. Nos reafirma que la selección apropiada de un algoritmo es un factor determinante en la eficiencia y escalabilidad de las soluciones de software, especialmente al procesar volúmenes considerables de información. Estamos convencidos de que esta práctica nos prepara mejor para desafíos más avanzados en nuestra formación como programadores.
 
 En el repositorio tenemos el archivo .py en el cual se encuentra desarrollado el caso práctico, un archivo ppt el cual utilizamos para realizar la exposición en el video, y un archivos doc, donde se encuentra desarrollado todo el tema en cuestión.
+
+Link del video: https://www.youtube.com/watch?v=duP4wwIOxx0

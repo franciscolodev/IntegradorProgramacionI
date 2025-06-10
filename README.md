@@ -10,4 +10,4 @@ En síntesis, esta experiencia práctica no solo facilitó la comprensión de la
 
 En el repositorio tenemos el archivo .py en el cual se encuentra desarrollado el caso práctico, un archivo ppt el cual utilizamos para realizar la exposición en el video, y un archivos doc, donde se encuentra desarrollado todo el tema en cuestión.
 
-Link del video: https://www.youtube.com/watch?v=duP4wwIOxx0
+Link del video: https://www.youtube.com/watch?v=D2VzvrF935M
